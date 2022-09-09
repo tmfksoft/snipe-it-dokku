@@ -1,5 +1,5 @@
-# Version 5.2.0
-FROM snipe/snipe-it@sha256:92214baa5168a6e838e53a63324dfd3bde9ba0a9b1d9d27b5426ce7f1f69c7ed
+# Version 6.0.10
+FROM snipe/snipe-it@sha256:7535da80d14274826ac7925ee9dd33af575f699e93774425eda6b99c3d67c6b0
 
 # Copy in our custom startup script
 COPY dokku-startup.sh /dokku-startup.sh
